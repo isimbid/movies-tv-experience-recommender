@@ -21,7 +21,7 @@ The pipeline:
 ## Key results
 
 - **5,571,499** raw IMDb reviews ingested
-- Raw data reduced from **7.09 GB of JSON to 3.94 GB of Parquet**
+- Raw data reduced from **7.09 GB of JSON to 3.94 GB by converting JSON to Parquet**
 - **8,841** candidate titles selected for enrichment
 - **7,726** high-confidence IMDb-to-TMDB matches
 - **7,721** final movie and TV title profiles
