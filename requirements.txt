@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+requests
+duckdb
+sentence-transformers
+torch
+tqdm
+jupyterlab

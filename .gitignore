@@ -1,0 +1,20 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Local analytical database
+data/warehouse/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db

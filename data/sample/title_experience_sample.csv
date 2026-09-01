@@ -1,0 +1,101 @@
+title_key,title,media_type,release_date,experience,category,score,raw_similarity,reviews_used
+movie:299534,Avengers: Endgame,movie,2019-04-24,Epic / grand,Story / world experience,98.47,0.5580128713700936,8764
+movie:299534,Avengers: Endgame,movie,2019-04-24,Fulfilled,After-effect,95.34,0.554985377191137,8764
+movie:299534,Avengers: Endgame,movie,2019-04-24,Unforgettable,After-effect,91.17,0.5619574807540079,8764
+movie:299534,Avengers: Endgame,movie,2019-04-24,Full of life,Overall experience,90.75,0.5328379447794244,8764
+movie:299534,Avengers: Endgame,movie,2019-04-24,Immersive,Overall experience,88.62,0.5809497493742155,8764
+movie:278,The Shawshank Redemption,movie,1994-09-23,Unforgettable,After-effect,99.18,0.5920408076687607,8218
+movie:278,The Shawshank Redemption,movie,1994-09-23,Rewatchable,Viewing style,98.69,0.6180607676651101,8218
+movie:278,The Shawshank Redemption,movie,1994-09-23,Life-affirming,Overall experience,98.36,0.5513914530223291,8218
+movie:278,The Shawshank Redemption,movie,1994-09-23,Immersive,Overall experience,98.17,0.6029737801643495,8218
+movie:278,The Shawshank Redemption,movie,1994-09-23,Full of life,Overall experience,97.15,0.5528665460441257,8218
+movie:645484,Dil Bechara,movie,2020-07-24,Full of life,Overall experience,99.7,0.5791266872242884,7764
+movie:645484,Dil Bechara,movie,2020-07-24,Bittersweet,Emotion,99.7,0.5483895586299748,7764
+movie:645484,Dil Bechara,movie,2020-07-24,Fulfilled,After-effect,99.7,0.5851204905050554,7764
+movie:645484,Dil Bechara,movie,2020-07-24,Peaceful,After-effect,99.59,0.5350504683072514,7764
+movie:645484,Dil Bechara,movie,2020-07-24,Unforgettable,After-effect,99.56,0.5967029255115759,7764
+movie:299537,Captain Marvel,movie,2019-03-06,Feminist,Themes / lens,89.59,0.47374785276375103,7154
+movie:299537,Captain Marvel,movie,2019-03-06,Fun,Overall experience,89.56,0.5582079846065139,7154
+movie:299537,Captain Marvel,movie,2019-03-06,Cute,Emotion,75.16,0.49446902383063673,7154
+movie:299537,Captain Marvel,movie,2019-03-06,Epic / grand,Story / world experience,73.07,0.5202903587590858,7154
+movie:299537,Captain Marvel,movie,2019-03-06,Fast-paced,Viewing style,72.19,0.5320493097174658,7154
+movie:155,The Dark Knight,movie,2008-07-16,Unforgettable,After-effect,87.76,0.5561484389329604,6815
+movie:155,The Dark Knight,movie,2008-07-16,Full of life,Overall experience,78.95,0.5140962820409941,6815
+movie:155,The Dark Knight,movie,2008-07-16,Epic / grand,Story / world experience,73.4,0.5205298800898753,6815
+movie:155,The Dark Knight,movie,2008-07-16,Life-affirming,Overall experience,69.95,0.5018923674798239,6815
+movie:155,The Dark Knight,movie,2008-07-16,Strong chemistry,Connection,62.23,0.5439951078732576,6815
+movie:601807,Mrs. Serial Killer,movie,2020-05-01,Rewatchable,Viewing style,93.72,0.6071014601402472,5419
+movie:601807,Mrs. Serial Killer,movie,2020-05-01,Strong chemistry,Connection,93.68,0.5727590422587193,5419
+movie:601807,Mrs. Serial Killer,movie,2020-05-01,Full of life,Overall experience,92.99,0.5380415605825567,5419
+movie:601807,Mrs. Serial Killer,movie,2020-05-01,Immersive,Overall experience,88.45,0.5807360296958618,5419
+movie:601807,Mrs. Serial Killer,movie,2020-05-01,Intense,Overall experience,88.24,0.544646197479355,5419
+movie:120,The Lord of the Rings: The Fellowship of the Ring,movie,2001-12-18,Epic / grand,Story / world experience,99.77,0.573173455962194,5353
+movie:120,The Lord of the Rings: The Fellowship of the Ring,movie,2001-12-18,Unforgettable,After-effect,98.72,0.5879400186665188,5353
+movie:120,The Lord of the Rings: The Fellowship of the Ring,movie,2001-12-18,Immersive,Overall experience,98.68,0.6063966029562862,5353
+movie:120,The Lord of the Rings: The Fellowship of the Ring,movie,2001-12-18,Full of life,Overall experience,91.52,0.5343403651427937,5353
+movie:120,The Lord of the Rings: The Fellowship of the Ring,movie,2001-12-18,Adventurous,Story / world experience,90.27,0.46676047966677564,5353
+movie:464052,Wonder Woman 1984,movie,2020-12-16,Devastated,After-effect,93.28,0.536774847843951,5286
+movie:464052,Wonder Woman 1984,movie,2020-12-16,Gruesome,Tone & style,90.69,0.5491754457529323,5286
+movie:464052,Wonder Woman 1984,movie,2020-12-16,Unpredictable,Thinking / engagement,85.53,0.5334958535813943,5286
+movie:464052,Wonder Woman 1984,movie,2020-12-16,Bizarre,Tone & style,84.37,0.5602368727534998,5286
+movie:464052,Wonder Woman 1984,movie,2020-12-16,Unsettled,After-effect,76.98,0.5106980334255581,5286
+movie:645489,Gunjan Saxena: The Kargil Girl,movie,2020-07-23,Full of life,Overall experience,96.59,0.5504121875317388,4923
+movie:645489,Gunjan Saxena: The Kargil Girl,movie,2020-07-23,Inspired / motivated,After-effect,93.03,0.5231726299861619,4923
+movie:645489,Gunjan Saxena: The Kargil Girl,movie,2020-07-23,Unforgettable,After-effect,92.38,0.5649866835993043,4923
+movie:645489,Gunjan Saxena: The Kargil Girl,movie,2020-07-23,Fulfilled,After-effect,89.77,0.5432557875660167,4923
+movie:645489,Gunjan Saxena: The Kargil Girl,movie,2020-07-23,Life-affirming,Overall experience,88.77,0.5230901091655241,4923
+movie:603673,Laxmii,movie,2020-11-09,Devastated,After-effect,95.82,0.5423747190992725,4742
+movie:603673,Laxmii,movie,2020-11-09,Sad / melancholic,Emotion,87.23,0.47373356813119466,4742
+movie:603673,Laxmii,movie,2020-11-09,Gruesome,Tone & style,86.27,0.540389004260465,4742
+movie:603673,Laxmii,movie,2020-11-09,Unsettled,After-effect,75.06,0.5086680733669865,4742
+movie:603673,Laxmii,movie,2020-11-09,Morally complex / gray,Story / world experience,70.53,0.5054141864752478,4742
+movie:466272,Once Upon a Time... in Hollywood,movie,2019-07-24,Gruesome,Tone & style,77.81,0.5284713300178226,4664
+movie:466272,Once Upon a Time... in Hollywood,movie,2019-07-24,Devastated,After-effect,77.79,0.5164571928937072,4664
+movie:466272,Once Upon a Time... in Hollywood,movie,2019-07-24,Escapist,Overall experience,74.2,0.5398380547813036,4664
+movie:466272,Once Upon a Time... in Hollywood,movie,2019-07-24,Cathartic,After-effect,68.86,0.4698797261939858,4664
+movie:466272,Once Upon a Time... in Hollywood,movie,2019-07-24,Sad / melancholic,Emotion,68.77,0.46124979480462047,4664
+tv:1399,Game of Thrones,tv,2011-04-17,Seasonal,Atmosphere,99.66,0.4797816941091076,4499
+tv:1399,Game of Thrones,tv,2011-04-17,Epic / grand,Story / world experience,93.27,0.5418117003431318,4499
+tv:1399,Game of Thrones,tv,2011-04-17,Adventurous,Story / world experience,88.37,0.4643705003021505,4499
+tv:1399,Game of Thrones,tv,2011-04-17,Devastated,After-effect,88.08,0.52846688369985,4499
+tv:1399,Game of Thrones,tv,2011-04-17,High-stakes,Story / world experience,82.57,0.5055184246672871,4499
+movie:603,The Matrix,movie,1999-03-31,Immersive,Overall experience,97.29,0.5992695916559279,4268
+movie:603,The Matrix,movie,1999-03-31,Epic / grand,Story / world experience,94.82,0.5448886975017573,4268
+movie:603,The Matrix,movie,1999-03-31,Feminist,Themes / lens,94.2,0.48154450177922914,4268
+movie:603,The Matrix,movie,1999-03-31,Unforgettable,After-effect,91.5,0.5628269127628573,4268
+movie:603,The Matrix,movie,1999-03-31,Reflective / thought-provoking,Thinking / engagement,91.0,0.5802640333953257,4268
+movie:299536,Avengers: Infinity War,movie,2018-04-25,Epic / grand,Story / world experience,97.9,0.5548154241779796,4254
+movie:299536,Avengers: Infinity War,movie,2018-04-25,Immersive,Overall experience,86.3,0.5778295519657969,4254
+movie:299536,Avengers: Infinity War,movie,2018-04-25,Full of life,Overall experience,86.27,0.5242808009740832,4254
+movie:299536,Avengers: Infinity War,movie,2018-04-25,Unforgettable,After-effect,85.46,0.5526595373472026,4254
+movie:299536,Avengers: Infinity War,movie,2018-04-25,Feminist,Themes / lens,80.91,0.4641314723091502,4254
+movie:475557,Joker,movie,2019-10-01,Human / humanistic,Connection,93.6,0.5439881595294591,4188
+movie:475557,Joker,movie,2019-10-01,Intense,Overall experience,93.11,0.5513443823871776,4188
+movie:475557,Joker,movie,2019-10-01,Existential,Thinking / engagement,91.93,0.5103208292293457,4188
+movie:475557,Joker,movie,2019-10-01,Unforgettable,After-effect,91.26,0.5622366802284802,4188
+movie:475557,Joker,movie,2019-10-01,Full of life,Overall experience,91.15,0.5335378564872851,4188
+movie:297802,Aquaman,movie,2018-12-07,Fun,Overall experience,80.56,0.5496954479356752,4110
+movie:297802,Aquaman,movie,2018-12-07,Epic / grand,Story / world experience,78.09,0.5245207477950121,4110
+movie:297802,Aquaman,movie,2018-12-07,Gruesome,Tone & style,69.51,0.5191164485439477,4110
+movie:297802,Aquaman,movie,2018-12-07,Full of life,Overall experience,68.18,0.5030230668339416,4110
+movie:297802,Aquaman,movie,2018-12-07,Immersive,Overall experience,66.39,0.5598246108006387,4110
+movie:27205,Inception,movie,2010-07-15,Reflective / thought-provoking,Thinking / engagement,98.81,0.603095313675696,3987
+movie:27205,Inception,movie,2010-07-15,Immersive,Overall experience,98.23,0.6033875843561889,3987
+movie:27205,Inception,movie,2010-07-15,Epic / grand,Story / world experience,97.69,0.5535083748745925,3987
+movie:27205,Inception,movie,2010-07-15,Inspired / motivated,After-effect,96.79,0.5316028925061136,3987
+movie:27205,Inception,movie,2010-07-15,Existential,Thinking / engagement,96.11,0.5192900486150301,3987
+movie:238,The Godfather,movie,1972-03-14,Unforgettable,After-effect,96.48,0.5763418509918136,3970
+movie:238,The Godfather,movie,1972-03-14,Epic / grand,Story / world experience,93.54,0.5422547155423488,3970
+movie:238,The Godfather,movie,1972-03-14,Full of life,Overall experience,89.68,0.5303536287783376,3970
+movie:238,The Godfather,movie,1972-03-14,Life-affirming,Overall experience,86.67,0.5197488241892317,3970
+movie:238,The Godfather,movie,1972-03-14,Political,Themes / lens,84.74,0.45810479228983,3970
+movie:577922,Tenet,movie,2020-08-22,Unpredictable,Thinking / engagement,99.44,0.5652313581593249,3933
+movie:577922,Tenet,movie,2020-08-22,Immersive,Overall experience,96.37,0.596270800061181,3933
+movie:577922,Tenet,movie,2020-08-22,Reflective / thought-provoking,Thinking / engagement,96.0,0.5901651118142957,3933
+movie:577922,Tenet,movie,2020-08-22,Epic / grand,Story / world experience,95.26,0.5460122208118803,3933
+movie:577922,Tenet,movie,2020-08-22,Provokes curiosity,Thinking / engagement,93.86,0.5661132564200356,3933
+movie:209112,Batman v Superman: Dawn of Justice,movie,2016-03-23,Fun,Overall experience,70.04,0.5426130335039228,3792
+movie:209112,Batman v Superman: Dawn of Justice,movie,2016-03-23,Epic / grand,Story / world experience,62.96,0.5123022538197192,3792
+movie:209112,Batman v Superman: Dawn of Justice,movie,2016-03-23,Fast-paced,Viewing style,59.79,0.5237711331009361,3792
+movie:209112,Batman v Superman: Dawn of Justice,movie,2016-03-23,Gruesome,Tone & style,59.46,0.5091609391482067,3792
+movie:209112,Batman v Superman: Dawn of Justice,movie,2016-03-23,Unpredictable,Thinking / engagement,56.95,0.5079534345538305,3792
