@@ -181,7 +181,7 @@ More example and validation queries are in the `sql/` folder.
 ## Project structure
 
 ```text
-movies-tv-data-project/
+movies-tv-experience-recommender/
   data/
     sample/
       title_experience_sample.csv
