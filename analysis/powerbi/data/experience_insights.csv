@@ -1,0 +1,111 @@
+media_type,experience,category,top_title_pct,overall_pct,overrepresentation_pp,strong_title_count,strong_avg_rating,other_avg_rating,strong_weighted_rating,other_weighted_rating,title_rating_lift,weighted_rating_lift
+movie,Unforgettable,After-effect,53.9,24.7,29.2,1600.0,7.2,6.32,7.71,6.73,0.88,0.98
+movie,Full of life,Overall experience,49.2,24.6,24.7,1591.0,7.12,6.34,7.64,6.76,0.78,0.88
+movie,Epic / grand,Story / world experience,45.6,24.6,21.0,1596.0,7.03,6.37,7.47,6.78,0.66,0.69
+movie,Immersive,Overall experience,45.2,24.6,20.6,1597.0,7.01,6.38,7.5,6.78,0.63,0.72
+movie,Nostalgic,Connection,45.0,24.9,20.1,1611.0,7.08,6.35,7.48,6.87,0.73,0.61
+movie,Life-affirming,Overall experience,43.2,24.6,18.6,1595.0,7.03,6.37,7.54,6.84,0.66,0.7
+movie,Intense,Overall experience,42.6,24.6,18.0,1596.0,6.99,6.39,7.53,6.82,0.6,0.71
+movie,Fulfilled,After-effect,40.3,24.7,15.6,1600.0,6.98,6.39,7.5,6.84,0.59,0.66
+movie,Romantic,Emotion,40.0,24.7,15.3,1601.0,6.99,6.39,7.41,6.89,0.6,0.52
+movie,Provokes curiosity,Thinking / engagement,38.8,24.5,14.3,1590.0,6.94,6.4,7.46,6.86,0.54,0.6
+movie,Seasonal,Atmosphere,39.0,24.8,14.2,1605.0,6.97,6.39,7.35,6.92,0.58,0.43
+movie,Happy,Emotion,38.9,24.7,14.2,1598.0,6.94,6.4,7.36,6.89,0.54,0.47
+movie,Cathartic,After-effect,38.6,24.7,13.9,1601.0,6.95,6.4,7.45,6.88,0.55,0.57
+movie,Familiar,Connection,38.5,24.8,13.7,1606.0,6.94,6.4,7.42,6.91,0.54,0.51
+movie,Yearning / longing,Emotion,38.0,24.7,13.3,1603.0,6.93,6.41,7.39,6.9,0.52,0.49
+movie,Adventurous,Story / world experience,37.9,24.6,13.3,1591.0,6.87,6.43,7.29,6.88,0.44,0.41
+movie,Existential,Thinking / engagement,37.7,24.7,13.0,1600.0,6.84,6.44,7.41,6.88,0.4,0.53
+movie,Strong chemistry,Connection,37.7,24.7,12.9,1602.0,6.98,6.39,7.37,6.91,0.59,0.46
+movie,Peaceful,After-effect,37.2,24.6,12.6,1595.0,6.95,6.4,7.43,6.9,0.55,0.53
+movie,Real / relatable,Connection,37.0,24.6,12.4,1593.0,6.9,6.42,7.42,6.89,0.48,0.53
+movie,Comforting,Emotion,36.7,24.7,12.0,1600.0,6.93,6.41,7.38,6.91,0.52,0.47
+movie,Inspired / motivated,After-effect,36.5,24.6,11.9,1592.0,6.84,6.43,7.34,6.9,0.41,0.44
+movie,Reflective / thought-provoking,Thinking / engagement,36.5,24.6,11.9,1593.0,6.87,6.43,7.43,6.88,0.44,0.55
+movie,Human / humanistic,Connection,36.3,24.6,11.8,1593.0,6.83,6.44,7.41,6.89,0.39,0.52
+movie,Political,Themes / lens,36.0,24.5,11.5,1587.0,6.9,6.42,7.38,6.9,0.48,0.48
+movie,Warm / tender,Emotion,36.3,24.8,11.5,1610.0,6.93,6.4,7.34,6.92,0.53,0.42
+movie,Heart-wrenching,Emotion,36.0,24.7,11.4,1599.0,6.89,6.42,7.41,6.9,0.47,0.51
+movie,Stomach butterflies,Emotion,35.8,24.7,11.1,1599.0,6.83,6.44,7.25,6.93,0.39,0.32
+movie,Rewatchable,Viewing style,35.4,24.8,10.7,1604.0,6.89,6.42,7.36,6.87,0.47,0.49
+movie,Hopeful,Emotion,35.2,24.6,10.6,1595.0,6.92,6.41,7.31,6.93,0.51,0.38
+movie,Bittersweet,Emotion,35.2,24.7,10.4,1603.0,6.9,6.42,7.34,6.93,0.48,0.41
+movie,High-stakes,Story / world experience,33.6,24.6,9.1,1593.0,6.88,6.42,7.34,6.9,0.46,0.44
+movie,Feminist,Themes / lens,32.3,24.5,7.8,1588.0,6.81,6.45,7.3,6.93,0.36,0.37
+movie,Cute,Emotion,32.2,24.9,7.3,1613.0,6.74,6.47,7.12,6.97,0.27,0.15
+movie,Escapist,Overall experience,30.9,24.7,6.2,1600.0,6.68,6.49,7.28,6.92,0.19,0.36
+movie,Haunting,Overall experience,29.6,25.0,4.6,1618.0,6.65,6.5,7.22,6.95,0.15,0.27
+movie,Socially critical,Themes / lens,29.0,24.8,4.2,1606.0,6.64,6.5,7.17,6.97,0.14,0.2
+movie,Suspenseful / tense,Thinking / engagement,27.4,24.8,2.6,1609.0,6.62,6.51,7.13,6.97,0.11,0.16
+movie,Quirky,Tone & style,24.5,25.0,-0.5,1623.0,6.57,6.52,6.97,7.02,0.05,-0.05
+movie,Sad / melancholic,Emotion,22.9,24.9,-2.0,1616.0,6.37,6.59,6.98,7.01,-0.22,-0.03
+movie,Fun,Overall experience,20.7,24.9,-4.2,1615.0,6.47,6.56,6.88,7.07,-0.09,-0.19
+movie,Easy to watch,Viewing style,19.0,24.7,-5.7,1600.0,6.52,6.54,6.92,7.03,-0.02,-0.11
+movie,Fast-paced,Viewing style,19.1,24.9,-5.8,1613.0,6.51,6.54,6.87,7.05,-0.03,-0.18
+movie,Dark,Tone & style,18.1,25.1,-7.0,1626.0,6.32,6.61,6.83,7.05,-0.29,-0.22
+movie,Unsettled,After-effect,17.7,25.0,-7.3,1621.0,6.28,6.62,6.79,7.06,-0.34,-0.27
+movie,Slow-burn,Viewing style,17.4,25.0,-7.6,1617.0,6.46,6.56,6.82,7.05,-0.1,-0.23
+movie,Scary / frightening,Tone & style,16.9,25.0,-8.1,1622.0,6.25,6.63,6.81,7.05,-0.38,-0.24
+movie,Ruthless / unforgiving,Story / world experience,16.0,24.9,-8.9,1615.0,6.36,6.59,6.81,7.05,-0.23,-0.24
+movie,Devastated,After-effect,15.7,25.0,-9.4,1622.0,6.07,6.69,6.64,7.1,-0.62,-0.46
+movie,Funny,Tone & style,15.2,25.1,-9.9,1626.0,6.29,6.62,6.71,7.1,-0.33,-0.39
+movie,Morally complex / gray,Story / world experience,14.5,25.1,-10.6,1625.0,6.23,6.64,6.68,7.08,-0.41,-0.4
+movie,Unpredictable,Thinking / engagement,12.6,25.1,-12.5,1628.0,6.14,6.67,6.67,7.11,-0.53,-0.44
+movie,Gruesome,Tone & style,12.1,25.0,-12.9,1623.0,5.98,6.72,6.57,7.11,-0.74,-0.54
+movie,Dark humor,Tone & style,11.4,25.1,-13.7,1627.0,6.14,6.67,6.57,7.1,-0.53,-0.53
+movie,Bizarre,Tone & style,10.3,25.2,-14.9,1630.0,5.95,6.73,6.5,7.12,-0.78,-0.62
+tv,Seasonal,Atmosphere,42.5,24.4,18.2,269.0,7.71,7.29,8.12,7.88,0.42,0.24
+tv,Unforgettable,After-effect,37.6,22.2,15.4,245.0,7.77,7.29,8.28,7.88,0.48,0.4
+tv,Full of life,Overall experience,36.2,22.5,13.7,248.0,7.76,7.29,8.26,7.9,0.47,0.36
+tv,Strong chemistry,Connection,33.0,22.8,10.2,252.0,7.73,7.29,8.15,7.93,0.44,0.22
+tv,Cute,Emotion,33.9,24.3,9.7,268.0,7.61,7.32,8.07,7.96,0.29,0.11
+tv,Epic / grand,Story / world experience,31.7,22.6,9.0,250.0,7.63,7.32,8.15,7.92,0.31,0.23
+tv,Happy,Emotion,31.7,22.6,9.0,250.0,7.52,7.35,8.17,7.93,0.17,0.24
+tv,Immersive,Overall experience,31.2,22.6,8.6,250.0,7.64,7.32,8.13,7.94,0.32,0.19
+tv,Romantic,Emotion,30.3,22.7,7.6,251.0,7.58,7.34,8.09,7.95,0.24,0.14
+tv,Rewatchable,Viewing style,31.2,23.8,7.4,263.0,7.67,7.3,8.13,7.93,0.37,0.2
+tv,Fulfilled,After-effect,29.4,22.9,6.5,253.0,7.64,7.32,8.1,7.95,0.32,0.15
+tv,Real / relatable,Connection,28.5,22.6,6.0,249.0,7.56,7.34,8.12,7.95,0.22,0.17
+tv,Intense,Overall experience,28.1,22.1,6.0,244.0,7.56,7.35,8.13,7.94,0.21,0.19
+tv,Life-affirming,Overall experience,28.1,22.3,5.8,246.0,7.6,7.33,8.13,7.94,0.27,0.19
+tv,Stomach butterflies,Emotion,27.6,22.5,5.1,248.0,7.53,7.35,8.05,7.96,0.18,0.09
+tv,Warm / tender,Emotion,28.5,23.6,5.0,260.0,7.54,7.35,8.07,7.96,0.19,0.11
+tv,Adventurous,Story / world experience,26.2,22.6,3.6,250.0,7.5,7.36,8.02,7.97,0.14,0.05
+tv,Comforting,Emotion,25.8,22.3,3.5,246.0,7.55,7.35,8.11,7.95,0.2,0.16
+tv,Nostalgic,Connection,26.7,23.5,3.2,259.0,7.5,7.36,8.1,7.96,0.14,0.14
+tv,Inspired / motivated,After-effect,24.0,22.6,1.4,249.0,7.47,7.37,7.96,7.98,0.1,-0.02
+tv,Peaceful,After-effect,24.0,22.6,1.3,250.0,7.56,7.34,8.06,7.97,0.22,0.09
+tv,Existential,Thinking / engagement,24.4,23.5,1.0,259.0,7.39,7.39,8.03,7.97,0.0,0.06
+tv,Fun,Overall experience,24.9,24.4,0.5,269.0,7.44,7.38,8.06,7.96,0.06,0.1
+tv,Political,Themes / lens,22.2,23.0,-0.8,254.0,7.39,7.39,7.99,7.98,0.0,0.01
+tv,Yearning / longing,Emotion,21.3,22.7,-1.5,251.0,7.41,7.39,8.0,7.98,0.02,0.02
+tv,Heart-wrenching,Emotion,21.7,23.3,-1.6,257.0,7.43,7.38,8.11,7.95,0.05,0.16
+tv,Reflective / thought-provoking,Thinking / engagement,20.8,22.6,-1.7,249.0,7.39,7.39,7.97,7.98,0.0,-0.01
+tv,Cathartic,After-effect,20.8,22.7,-1.9,251.0,7.39,7.39,8.0,7.98,0.0,0.02
+tv,Bittersweet,Emotion,20.8,23.0,-2.2,254.0,7.37,7.4,7.95,7.98,-0.03,-0.03
+tv,Provokes curiosity,Thinking / engagement,20.4,22.6,-2.2,249.0,7.44,7.38,7.97,7.98,0.06,-0.01
+tv,High-stakes,Story / world experience,20.8,23.1,-2.3,255.0,7.46,7.37,7.99,7.98,0.09,0.01
+tv,Quirky,Tone & style,20.8,24.3,-3.5,268.0,7.35,7.41,7.91,7.99,-0.06,-0.08
+tv,Escapist,Overall experience,19.5,23.0,-3.6,254.0,7.34,7.41,7.91,7.99,-0.07,-0.08
+tv,Feminist,Themes / lens,19.5,23.7,-4.3,262.0,7.32,7.41,7.95,7.99,-0.09,-0.04
+tv,Haunting,Overall experience,19.5,24.0,-4.5,265.0,7.33,7.41,7.86,8.01,-0.08,-0.15
+tv,Human / humanistic,Connection,17.6,22.5,-4.8,248.0,7.29,7.42,7.99,7.98,-0.13,0.01
+tv,Funny,Tone & style,20.4,25.3,-4.9,279.0,7.23,7.45,7.9,8.0,-0.22,-0.1
+tv,Hopeful,Emotion,17.6,22.9,-5.3,253.0,7.39,7.39,7.98,7.98,0.0,0.0
+tv,Suspenseful / tense,Thinking / engagement,17.2,23.1,-5.9,255.0,7.36,7.4,7.87,8.0,-0.04,-0.13
+tv,Dark humor,Tone & style,18.6,24.9,-6.4,275.0,7.13,7.48,7.83,8.01,-0.35,-0.18
+tv,Fast-paced,Viewing style,17.2,24.1,-6.9,266.0,7.37,7.4,7.86,8.0,-0.03,-0.14
+tv,Familiar,Connection,14.5,23.0,-8.5,254.0,7.25,7.43,7.91,7.99,-0.18,-0.08
+tv,Dark,Tone & style,14.0,24.9,-10.9,275.0,7.15,7.47,7.7,8.04,-0.32,-0.34
+tv,Easy to watch,Viewing style,12.7,24.4,-11.7,269.0,7.22,7.45,7.75,8.01,-0.23,-0.26
+tv,Gruesome,Tone & style,13.6,25.5,-12.0,282.0,7.04,7.51,7.69,8.05,-0.47,-0.36
+tv,Devastated,After-effect,13.1,25.6,-12.5,283.0,7.06,7.51,7.75,8.04,-0.45,-0.29
+tv,Socially critical,Themes / lens,11.8,24.4,-12.6,269.0,7.05,7.5,7.73,8.02,-0.45,-0.29
+tv,Scary / frightening,Tone & style,12.2,25.0,-12.8,276.0,7.09,7.49,7.68,8.05,-0.4,-0.37
+tv,Ruthless / unforgiving,Story / world experience,12.7,25.5,-12.8,281.0,7.21,7.45,7.7,8.04,-0.24,-0.34
+tv,Sad / melancholic,Emotion,10.0,24.3,-14.3,268.0,6.92,7.54,7.65,8.02,-0.62,-0.37
+tv,Bizarre,Tone & style,10.4,25.5,-15.1,282.0,6.96,7.54,7.57,8.06,-0.58,-0.49
+tv,Slow-burn,Viewing style,8.1,23.9,-15.8,264.0,7.1,7.48,7.58,8.04,-0.38,-0.46
+tv,Unsettled,After-effect,7.7,24.7,-17.0,273.0,6.93,7.54,7.51,8.05,-0.61,-0.54
+tv,Unpredictable,Thinking / engagement,7.2,25.5,-18.2,281.0,7.0,7.53,7.48,8.07,-0.53,-0.59
+tv,Morally complex / gray,Story / world experience,6.3,25.2,-18.8,278.0,6.9,7.56,7.48,8.06,-0.66,-0.58
